@@ -1,0 +1,50 @@
+{
+    "aether": {
+        "name": "V&V Aether",
+        "category": "performance",
+        "badge": "Performance",
+        "price": "$185,000",
+        "description": "Our flagship electric hypercar. Pure racing adrenaline reimagined with silent, emission-free speed.",
+        "hp": "1,900",
+        "zeroToSixty": "1.85s",
+        "range": "480 mi",
+        "image": "assets/images/sports_car.png",
+        "seo": {
+            "title": "Volt & Velocity Aether | 1900 HP Electric Hypercar",
+            "description": "Experience pure racing adrenaline with the V&V Aether. 1,900 HP, 0-60 MPH in 1.85 seconds, and a track-tuned aerodynamic carbon-fiber body.",
+            "keywords": "electric hypercar, performance EV, V&V Aether, electric sports car, fast EV"
+        }
+    },
+    "nexus": {
+        "name": "V&V Nexus",
+        "category": "sedan",
+        "badge": "Luxury Executive",
+        "price": "$120,000",
+        "description": "An executive lounge on wheels. Blending autonomous tech with biometric comfort configurations.",
+        "hp": "820",
+        "zeroToSixty": "2.60s",
+        "range": "510 mi",
+        "image": "assets/images/luxury_sedan.png",
+        "seo": {
+            "title": "Volt & Velocity Nexus | Premium Executive Electric Sedan",
+            "description": "Explore the V&V Nexus, a premium electric executive sedan. Designed for comfort, autonomy, and luxury with a 510-mile range and modern cockpit.",
+            "keywords": "electric sedan, luxury EV, executive electric car, V&V Nexus, autonomous sedan"
+        }
+    },
+    "zenith": {
+        "name": "V&V Zenith",
+        "category": "suv",
+        "badge": "Adventure",
+        "price": "$95,000",
+        "description": "Unparalleled off-road capability. Tri-motor torque vectoring ensures traction on any terrain.",
+        "hp": "1,020",
+        "zeroToSixty": "3.10s",
+        "range": "420 mi",
+        "image": "assets/images/suv_car.png",
+        "seo": {
+            "title": "Volt & Velocity Zenith | Tri-Motor Offroad Electric SUV",
+            "description": "Discover the V&V Zenith, a high-performance luxury electric SUV with 1,020 HP and offroad capability. Built for mountain terrain and towing.",
+            "keywords": "electric SUV, offroad EV, tri-motor SUV, V&V Zenith, electric adventure car"
+        }
+    }
+}
